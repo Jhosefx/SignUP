@@ -1,6 +1,6 @@
 # SignUP
 
-Tela de Cadastro feita em freelancer
+<h1 align="center">Tela de Cadastro feita em freelancer</h1>
 
 # Tecnologias Usadas
 <i class="devicon-html5-plain colored"></i>
