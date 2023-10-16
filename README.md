@@ -3,7 +3,7 @@
 Tela de Cadastro feita em freelancer
 
 # Tecnologias Usadas
-https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+<i class="devicon-html5-plain colored"></i>
 https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
 https://img.shields.io/badge/logo-javascript-blue?logo=javascript
 
