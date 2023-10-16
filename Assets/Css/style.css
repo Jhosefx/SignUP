@@ -1,0 +1,69 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(/Assets/Imagens/wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+}
+
+header.main-login {
+    text-align: center;
+    color: #ac2323;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+h1 {
+    font-size: 28px;
+    font-weight: bold;
+    color: #fff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    background: linear-gradient(135deg, #c33b00, #6c4926);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+form {
+    max-width: 300px;
+    margin: 110px auto;
+    padding: 20px;
+    background-color:transparent #9d0202;
+    border-radius: 30px;
+    box-shadow: 0 0 10px rgba(49, 4, 4, 0.3);
+}
+
+label {
+    display: block;
+    margin-bottom: 20px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px transparent #9d3a3a;
+    border-radius: 20px;
+    background-color: hsl(0, 13%, 9%);
+    font-weight: bold;
+    color: #fff;
+}
+
+button[type="submit"] {
+    background-color: #241b1b;
+    color: #d90404;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 100px;
+    cursor: pointer;
+}
+
+button[type="submit"]:hover {
+    background-color: #371f1ff7;
+}

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RK | Sign Up</title>
+    <link rel="space icon" href="/Assets/Imagens/foguete.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+    <link rel="stylesheet" href="/Assets/Css/style.css">
+</head>
+<body>
+    <header class="main-login">
+        <h1>Sign Up</h1>
+    </header>
+    <div>
+        <form action="form" method="post">
+            <label for="firstname">
+                <input type="text"  class="input" id="firstname" required placeholder="First Name">
+            </label>
+            <label for="lastname">
+                <input type="text"  class="input" name="lastname" id="lastname" required placeholder="Last Name">
+            </label><br>
+            <label for="email">
+                <input type="email"  class="input" name="email" id="email" required placeholder="seuemail@dominio.com">
+            </label><br>
+            <label for="password">
+                <input type="password" class="input" name="password" id="password" required placeholder="Password">
+            </label><br>
+            <button type="submit" id="showPasswordButton" onclick="togglePasswordVisibility()">Cadastrar</button>
+        </form>
+    </div>
+    <script src="/JS/script.js"></script>
+</body>
+</html>
