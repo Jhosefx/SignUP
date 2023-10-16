@@ -1,6 +1,6 @@
 # SignUP
 
-<h1 align="center">Tela de Cadastro feita em freelancer</h1>
+<h1 align="center">Tela de Cadastro</h1>
 
 # Tecnologias Usadas
 <img src ="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
